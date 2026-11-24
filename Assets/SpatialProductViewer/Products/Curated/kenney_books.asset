@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9887c4861674ff2b5a8628813815a1b, type: 3}
+  m_Name: kenney_books
+  m_EditorClassIdentifier: Assembly-CSharp::SpatialProductViewer.ProductDefinition
+  displayName: Books
+  category: 5
+  dimensionsMeters: {x: 0.34751335, y: 0.24, z: 0.21828206}
+  prefab: {fileID: 5085511229404188353, guid: 453cf69a2f435234ea52f36f835647b4, type: 3}
+  material: {fileID: 0}
+  thumbnail: {fileID: 21300000, guid: 62889ab8bea64864c9b856944bbb2cb3, type: 3}
+  previewColor: {r: 0.1, g: 0.42, b: 0.95, a: 1}
+  persistentId: builtin:ff04f9f48e312e44b97babf0ac35210e

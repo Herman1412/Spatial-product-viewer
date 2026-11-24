@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9887c4861674ff2b5a8628813815a1b, type: 3}
+  m_Name: binder_notebook
+  m_EditorClassIdentifier: Assembly-CSharp::SpatialProductViewer.ProductDefinition
+  displayName: Binder Notebook
+  category: 5
+  dimensionsMeters: {x: 0.58402884, y: 0.025289427, z: 0.19995832}
+  prefab: {fileID: 332408226637111689, guid: fe683de6d208bc049a6035196ae716f5, type: 3}
+  material: {fileID: 0}
+  thumbnail: {fileID: 21300000, guid: edcd7f1f5b73ebf40850d685364a3401, type: 3}
+  previewColor: {r: 0.1, g: 0.42, b: 0.95, a: 1}
+  persistentId: builtin:7749b6249a438a74bbda3dbe79890deb

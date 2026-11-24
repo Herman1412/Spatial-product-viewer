@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb1517ae026c4a389826b8a8cdb5c2e0, type: 3}
+  m_Name: GsplatSettings
+  m_EditorClassIdentifier: Gsplat::Gsplat.GsplatSettings
+  ComputeShader: {fileID: 7200000, guid: 0aa082656a496ff4f82ecc9d720802b8, type: 3}
+  GlobalMaterial: {fileID: 11400000, guid: c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5, type: 2}
+  EnableGlobalSort: 0
+  EnableNativeWebSort: 0
+  EnableCpuSortOptimization: 0
+  CpuNearExactDistance: 40
+  SplatInstanceSize: 128
+  UploadBatchSize: 100000
+  MaxRenderOrder: 1
+  DisplayBoundingBoxes: 0
+  CameraTranslationRefreshTreshold: 0.2
+  CameraRotationRefreshTreshold: 10
+  ShowImportErrors: 1
+  ShowDebugLog: 0
+  Materials:
+  - {fileID: 11400000, guid: e508ecffe0685684d95fed8b0fcddaf6, type: 2}
+  - {fileID: 11400000, guid: 553a689c801dee143b74c095a252eff0, type: 2}
+  m_version: 1.5.0

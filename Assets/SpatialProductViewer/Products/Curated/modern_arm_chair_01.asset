@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9887c4861674ff2b5a8628813815a1b, type: 3}
+  m_Name: modern_arm_chair_01
+  m_EditorClassIdentifier: Assembly-CSharp::SpatialProductViewer.ProductDefinition
+  displayName: Modern Arm Chair 01
+  category: 3
+  dimensionsMeters: {x: 0.82034445, y: 1.0228521, z: 0.98656166}
+  prefab: {fileID: 5809070669102940694, guid: 795838dc70736ed4bb50e78cd2de2c12, type: 3}
+  material: {fileID: 0}
+  thumbnail: {fileID: 21300000, guid: fa90da5d39d8cf94594d745e106a0a84, type: 3}
+  previewColor: {r: 0.1, g: 0.42, b: 0.95, a: 1}
+  persistentId: builtin:09325e5155f24274398ff80db3ac3cec

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9887c4861674ff2b5a8628813815a1b, type: 3}
+  m_Name: kenney_computerScreen
+  m_EditorClassIdentifier: Assembly-CSharp::SpatialProductViewer.ProductDefinition
+  displayName: Computer Monitor
+  category: 4
+  dimensionsMeters: {x: 0.6, y: 0.44964737, z: 0.15891089}
+  prefab: {fileID: 1833484766506848052, guid: 9513bee105e3d5343a65e1ba607807ad, type: 3}
+  material: {fileID: 0}
+  thumbnail: {fileID: 21300000, guid: f707aa1316042af4eb91c69ac61fa205, type: 3}
+  previewColor: {r: 0.1, g: 0.42, b: 0.95, a: 1}
+  persistentId: builtin:3dbda50375b22f14c9ff9aa7ef7c9544

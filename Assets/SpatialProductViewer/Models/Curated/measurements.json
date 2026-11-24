@@ -1,0 +1,268 @@
+{
+    "models": [
+        {
+            "id": "modern_arm_chair_01",
+            "dimensionsMeters": {
+                "x": 0.8203444480895996,
+                "y": 1.0228520631790161,
+                "z": 0.98656165599823
+            },
+            "renderers": 1,
+            "materialSlots": 2,
+            "triangles": 8916
+        },
+        {
+            "id": "mid_century_lounge_chair",
+            "dimensionsMeters": {
+                "x": 1.0086143016815186,
+                "y": 1.1690845489501953,
+                "z": 1.1903107166290283
+            },
+            "renderers": 1,
+            "materialSlots": 1,
+            "triangles": 6148
+        },
+        {
+            "id": "modern_coffee_table_02",
+            "dimensionsMeters": {
+                "x": 1.1991113424301147,
+                "y": 0.3692496716976166,
+                "z": 1.1996567249298096
+            },
+            "renderers": 1,
+            "materialSlots": 2,
+            "triangles": 13645
+        },
+        {
+            "id": "modern_wooden_cabinet",
+            "dimensionsMeters": {
+                "x": 2.440000534057617,
+                "y": 0.6801425218582153,
+                "z": 0.5199999809265137
+            },
+            "renderers": 3,
+            "materialSlots": 3,
+            "triangles": 24976
+        },
+        {
+            "id": "sofa_02",
+            "dimensionsMeters": {
+                "x": 1.8071672916412354,
+                "y": 0.7094888687133789,
+                "z": 0.817751407623291
+            },
+            "renderers": 2,
+            "materialSlots": 2,
+            "triangles": 2728
+        },
+        {
+            "id": "sofa_03",
+            "dimensionsMeters": {
+                "x": 2.73117733001709,
+                "y": 1.1182639598846436,
+                "z": 0.9250842332839966
+            },
+            "renderers": 1,
+            "materialSlots": 2,
+            "triangles": 8004
+        },
+        {
+            "id": "metal_office_desk",
+            "dimensionsMeters": {
+                "x": 2.000000476837158,
+                "y": 0.7875000238418579,
+                "z": 0.9472135305404663
+            },
+            "renderers": 9,
+            "materialSlots": 9,
+            "triangles": 6898
+        },
+        {
+            "id": "classic_laptop",
+            "dimensionsMeters": {
+                "x": 0.6519346237182617,
+                "y": 0.5428107976913452,
+                "z": 0.4859423041343689
+            },
+            "renderers": 3,
+            "materialSlots": 4,
+            "triangles": 14450
+        },
+        {
+            "id": "Television_01",
+            "dimensionsMeters": {
+                "x": 0.5999999642372131,
+                "y": 0.4568489193916321,
+                "z": 0.4708106815814972
+            },
+            "renderers": 1,
+            "materialSlots": 1,
+            "triangles": 1918
+        },
+        {
+            "id": "Camera_01",
+            "dimensionsMeters": {
+                "x": 0.21390153467655182,
+                "y": 0.07784664630889893,
+                "z": 0.26282382011413574
+            },
+            "renderers": 2,
+            "materialSlots": 5,
+            "triangles": 26987
+        },
+        {
+            "id": "modified_thermos",
+            "dimensionsMeters": {
+                "x": 0.14267507195472717,
+                "y": 0.3062242269515991,
+                "z": 0.10107244551181793
+            },
+            "renderers": 1,
+            "materialSlots": 1,
+            "triangles": 11576
+        },
+        {
+            "id": "binder_notebook",
+            "dimensionsMeters": {
+                "x": 0.5840288400650024,
+                "y": 0.025289427489042282,
+                "z": 0.19995832443237305
+            },
+            "renderers": 2,
+            "materialSlots": 2,
+            "triangles": 18077
+        },
+        {
+            "id": "stationery_supplies",
+            "dimensionsMeters": {
+                "x": 0.3018620014190674,
+                "y": 0.16434769332408905,
+                "z": 0.08366207033395767
+            },
+            "renderers": 9,
+            "materialSlots": 9,
+            "triangles": 4412
+        },
+        {
+            "id": "antique_ceramic_vase_01",
+            "dimensionsMeters": {
+                "x": 0.25502997636795044,
+                "y": 0.43955305218696594,
+                "z": 0.25502994656562805
+            },
+            "renderers": 1,
+            "materialSlots": 1,
+            "triangles": 9408
+        },
+        {
+            "id": "plastic_crate_02",
+            "dimensionsMeters": {
+                "x": 0.505501389503479,
+                "y": 0.2540891766548157,
+                "z": 0.4055013954639435
+            },
+            "renderers": 1,
+            "materialSlots": 1,
+            "triangles": 5840
+        },
+        {
+            "id": "kenney_bedDouble",
+            "dimensionsMeters": {
+                "x": 1.6995556354522705,
+                "y": 0.6666666865348816,
+                "z": 2.0
+            },
+            "renderers": 4,
+            "materialSlots": 7,
+            "triangles": 264
+        },
+        {
+            "id": "kenney_bookcaseOpen",
+            "dimensionsMeters": {
+                "x": 0.8181819319725037,
+                "y": 1.8000000715255737,
+                "z": 0.511363685131073
+            },
+            "renderers": 1,
+            "materialSlots": 1,
+            "triangles": 320
+        },
+        {
+            "id": "kenney_lampRoundFloor",
+            "dimensionsMeters": {
+                "x": 0.2828640341758728,
+                "y": 1.600000023841858,
+                "z": 0.32662326097488403
+            },
+            "renderers": 1,
+            "materialSlots": 2,
+            "triangles": 76
+        },
+        {
+            "id": "kenney_computerScreen",
+            "dimensionsMeters": {
+                "x": 0.6000000238418579,
+                "y": 0.44964736700057983,
+                "z": 0.15891088545322418
+            },
+            "renderers": 1,
+            "materialSlots": 2,
+            "triangles": 72
+        },
+        {
+            "id": "kenney_speakerSmall",
+            "dimensionsMeters": {
+                "x": 0.08940207958221436,
+                "y": 0.18000000715255737,
+                "z": 0.08046186715364456
+            },
+            "renderers": 1,
+            "materialSlots": 2,
+            "triangles": 220
+        },
+        {
+            "id": "kenney_televisionModern",
+            "dimensionsMeters": {
+                "x": 1.440000057220459,
+                "y": 0.956250011920929,
+                "z": 0.26999998092651367
+            },
+            "renderers": 1,
+            "materialSlots": 2,
+            "triangles": 72
+        },
+        {
+            "id": "kenney_books",
+            "dimensionsMeters": {
+                "x": 0.347513347864151,
+                "y": 0.23999999463558197,
+                "z": 0.2182820588350296
+            },
+            "renderers": 1,
+            "materialSlots": 4,
+            "triangles": 62
+        },
+        {
+            "id": "a_bubble_seal",
+            "dimensionsMeters": {
+                "x": 0.3634914755821228,
+                "y": 0.29444780945777893,
+                "z": 0.5000000596046448
+            },
+            "renderers": 1,
+            "materialSlots": 1,
+            "triangles": 18560
+        },
+        {
+            "id": "playstation_5_-_ps5",
+            "dimensionsMeters": {
+                "x": 0.14799252152442932,
+                "y": 0.4009740948677063,
+                "z": 0.35541093349456787
+            },
+            "renderers": 8,
+            "materialSlots": 8,
+            "triangles": 186680
+        }
+    ]
+}

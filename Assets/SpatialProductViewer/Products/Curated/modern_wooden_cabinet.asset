@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9887c4861674ff2b5a8628813815a1b, type: 3}
+  m_Name: modern_wooden_cabinet
+  m_EditorClassIdentifier: Assembly-CSharp::SpatialProductViewer.ProductDefinition
+  displayName: Modern Wooden Cabinet
+  category: 3
+  dimensionsMeters: {x: 2.4400005, y: 0.6801425, z: 0.52}
+  prefab: {fileID: 8598417916682328262, guid: 84e722751826bc8449d07c85bf887163, type: 3}
+  material: {fileID: 0}
+  thumbnail: {fileID: 21300000, guid: 4e0807a15c1ada84ebbdee8be56c0392, type: 3}
+  previewColor: {r: 0.1, g: 0.42, b: 0.95, a: 1}
+  persistentId: builtin:7e0f1f6aa22d5eb45ad68bd3ebac596a

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9887c4861674ff2b5a8628813815a1b, type: 3}
+  m_Name: sofa_02
+  m_EditorClassIdentifier: Assembly-CSharp::SpatialProductViewer.ProductDefinition
+  displayName: Sofa 02
+  category: 3
+  dimensionsMeters: {x: 1.8071673, y: 0.70948887, z: 0.8177514}
+  prefab: {fileID: 4984355138848703438, guid: 1a1be034726ff194d8a278bfa5c1e71a, type: 3}
+  material: {fileID: 0}
+  thumbnail: {fileID: 21300000, guid: f972cd2e1a120aa48a55d9333f8e272c, type: 3}
+  previewColor: {r: 0.1, g: 0.42, b: 0.95, a: 1}
+  persistentId: builtin:15aa07f07d7271f42a4cf14afd0e65f0

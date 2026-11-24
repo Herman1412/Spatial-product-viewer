@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9887c4861674ff2b5a8628813815a1b, type: 3}
+  m_Name: kenney_televisionModern
+  m_EditorClassIdentifier: Assembly-CSharp::SpatialProductViewer.ProductDefinition
+  displayName: Flat-screen TV
+  category: 4
+  dimensionsMeters: {x: 1.44, y: 0.95625, z: 0.26999998}
+  prefab: {fileID: 4323202010125869493, guid: c3f0e907b07650948b1ea298a443e0fa, type: 3}
+  material: {fileID: 0}
+  thumbnail: {fileID: 21300000, guid: 791cfa5d91b9e924ab2a3f6b6b18a6d5, type: 3}
+  previewColor: {r: 0.1, g: 0.42, b: 0.95, a: 1}
+  persistentId: builtin:347ce3e7c45efda4db4ea6371942b572
